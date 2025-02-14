@@ -8,3 +8,6 @@ Men Faridunman, texnologiya va dasturlashga ishtiyoqi baland insonman. Hayotimni
 - 📚 **Yangi bilimlarni o‘rganishni yaxshi ko‘raman**
 - 🚀 **Shaxsiy loyihalar ustida ishlash menga yoqadi**
 - 🎯 **Maqsadlarimga yetishishga qat’iy qaror qilganman va hech qachon taslim bo‘lmayman**
+
+
+

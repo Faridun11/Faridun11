@@ -1,13 +1,14 @@
-# Faridun Haqida README
+# About Faridun
 
-## Salom! 👋
-Men Faridunman, texnologiya va dasturlashga ishtiyoqi baland insonman. Hayotimni doimiy o‘rganish va o‘z ustimda ishlashga bag‘ishlayman.
+## Hello! 👋
+I am Faridun, a person with a great passion for technology and programming. I dedicate my life to constant learning and working on myself.
 
-## Men Haqimda
-- 💻 **Dasturlashga ishtiyoqmandman**
-- 📚 **Yangi bilimlarni o‘rganishni yaxshi ko‘raman**
-- 🚀 **Shaxsiy loyihalar ustida ishlash menga yoqadi**
-- 🎯 **Maqsadlarimga yetishishga qat’iy qaror qilganman va hech qachon taslim bo‘lmayman**
+## About Me
+- 💻 **I am passionate about programming**
+- 📚 **I love learning new knowledge**
+- 🚀 **I enjoy working on personal projects**
+- 🎯 **I am determined to achieve my goals and never give up**
 
-
-
+## 🌐 Languages ​​I Know
+- Uzbek
+- English

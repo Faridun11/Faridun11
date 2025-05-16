@@ -10,21 +10,22 @@ I'm Faridun Fakhriddinov, a passionate Frontend Developer who loves crafting bea
   <img src="https://github.com/user-attachments/assets/3d9fc86e-7b1e-4181-be7f-601377ac7fab" alt="Faridun Fakhriddinov" width="150" height="200"/>
 </p>
 
+
 - 📍 Location: Samarkand, Uzbekistan  
 - 💼 Profession: Frontend Developer  
 - 🌐 Website: [faridun.uz](https://faridun.uz/)  
 - 📧 Email: faridunfakhridinov777@gmail.com  
-- 📞 Phone: +998 95 397 97 75  
+- 📞 Phone: [+998 95 397 97 75](tel:+998953979775) 
 
 ## 💻 Technologies & Skills
 
 ### 🚀 Frontend Technologies:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS 3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap%20 5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />

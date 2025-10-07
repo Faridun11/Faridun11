@@ -15,7 +15,7 @@ I'm Faridun Fakhriddinov, a passionate Frontend Developer who loves crafting bea
 - 💼 Profession: Frontend Developer  
 - 🌐 Website: [faridun-dev.uz](https://faridun-dev.uz/)  
 - 📧 Email: faridunfakhridinov777@gmail.com  
-- 📞 Phone: [+998(95)-397-97-75](tel:+998953979775) 
+- 📞 Phone: [+998 95 397 97 75](tel:+998953979775) 
 
 ## 💻 Technologies & Skills
 
